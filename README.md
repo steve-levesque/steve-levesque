@@ -1,4 +1,4 @@
-### Welcome to my Github profile! 👋
+### Welcome to my GitHub profile! 👋
 
 <!--
 **steve-levesque/steve-levesque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
