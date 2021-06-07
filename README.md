@@ -27,7 +27,7 @@ Hello, I am a student and a web developer mostly. I hope you enjoy your visit.
 
 <h2>Some Statistics </h2>
 
-<p align='center'>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=steve-levesque&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&include_all_commits=true&hide=stars&count_private=true" alt="Steve's GitHub Stats" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steve-levesque&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&layout=compact" alt="Steve's Prog Lang" />
-</p>
+<div align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=steve-levesque&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&include_all_commits=true&hide=stars&count_private=true" alt="Steve's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steve-levesque&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&layout=compact" alt="Steve's Prog Lang" />
+</div>
