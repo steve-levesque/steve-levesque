@@ -13,17 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 <p align='center'>
-  <a href="https://stevelevesque.dev">
-    <img src="https://user-images.githubusercontent.com/42849270/121080645-abc2c180-c7a9-11eb-8543-32882fb71d77.gif" alt="Steve's Banner" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/42849270/123488001-0f881f80-d5dd-11eb-9ba5-a64919f3a2f2.png" alt="Steve's Banner" />
 </p>
 
-<h1 align="center">
-  Welcome to my GitHub profile! 👋
-</h1>
-
-Hello, I am a student and a web developer mostly. I hope you enjoy your visit.
+Hello, I am a computer science (CS) student and a web developer mostly. I hope you enjoy your visit.
 
 <!--
 =================================================================================================================================================
@@ -42,7 +38,7 @@ Hello, I am a student and a web developer mostly. I hope you enjoy your visit.
 
 <h2>More Repositories</h2>
 
-<details>
+<details open>
   <summary><b>Click to view</b></summary>
   <div align='center'>
     <a href="https://github.com/steve-levesque/Portfolio-Java-OOP">
@@ -53,3 +49,11 @@ Hello, I am a student and a web developer mostly. I hope you enjoy your visit.
     </a>
   </div>
 </details>
+
+<h2>My Website</h2>
+
+<p align='center'>
+  <a href="https://stevelevesque.dev">
+    <img src="https://user-images.githubusercontent.com/42849270/121080645-abc2c180-c7a9-11eb-8543-32882fb71d77.gif" alt="Steve's Banner" />
+  </a>
+</p>
