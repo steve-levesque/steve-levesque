@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-<p align='center'>
+<p align='left'>
   <img src="https://user-images.githubusercontent.com/42849270/123488001-0f881f80-d5dd-11eb-9ba5-a64919f3a2f2.png" alt="Steve's Banner" />
 </p>
 
