@@ -36,6 +36,14 @@ Hello, I am a computer science (CS) student and a web developer mostly. I hope y
 =================================================================================================================================================
 -->
 
+<h2>Contact Me</h2>
+
+If there is a problem with one of my repositorie's license file, acknowlegements and sources, unauthorized usage of a program you own, typos or others, feel free to contact me about it. 
+
+<!--
+=================================================================================================================================================
+-->
+
 <h2>More Repositories</h2>
 
 <details open>
