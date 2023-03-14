@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://user-images.githubusercontent.com/42849270/123488001-0f881f80-d5dd-11eb-9ba5-a64919f3a2f2.png" alt="Steve's Banner" />
 </p>
 
-Hello, I am a computer science (CS) student and a web developer mostly. I hope you enjoy your visit.
+Hello, welcome to my GitHub page!. I hope you enjoy your visit.
 
 
 <!--
